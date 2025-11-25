@@ -227,17 +227,6 @@ The `ExtractiveSummarization.ipynb` notebook implements two approaches:
 ├── requirements.txt                   # Python dependencies
 ├── README.md                          # Project documentation
 ├── .gitignore                         # Git ignore patterns
-├── liputan6_data/                     # Dataset directory (not included in repo)
-│   └── canonical/
-│       ├── train/
-│       ├── dev/
-│       └── test/
-└── abstractiveModel/                  # Trained model directory (not included in repo)
-    ├── config.json
-    ├── model.safetensors
-    ├── tokenizer_config.json
-    └── ...
-```
 
 ## 🤖 Models
 
@@ -328,15 +317,9 @@ This project is open source and available under the [MIT License](LICENSE).
   - `indobenchmark` for the IndoBERT model
   - `LazarusNLP` for the NusaBERT model
 
-## 🔗 Related Projects
-
-Check out other NLP projects by the author:
-- [Sentiment Analysis](https://github.com/GregReynaldi/sentiment-analysis)
-- [NLP Sentiment Indonesian Project](https://github.com/GregReynaldi/nlp-sentiment-indonesian-project)
-- [Sentiment Analysis Transformers](https://github.com/GregReynaldi/sentiment-analysis-transformers)
-
 ---
 
 **Note**: This project is for educational and research purposes. The dataset should be used in accordance with its original license terms.
+
 
 
