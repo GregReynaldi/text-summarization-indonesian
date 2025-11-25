@@ -2,20 +2,6 @@
 
 A comprehensive deep learning project implementing both **abstractive** and **extractive** text summarization for Indonesian news articles using state-of-the-art transformer models. This project fine-tunes and evaluates multiple models including T5, EncoderDecoder, and BERT-based models on the Liputan6 news dataset.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [Models](#models)
-- [Requirements](#requirements)
-- [Author](#author)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project implements comprehensive text summarization solutions for Indonesian news articles, covering both **abstractive** and **extractive** approaches:
@@ -352,4 +338,5 @@ Check out other NLP projects by the author:
 ---
 
 **Note**: This project is for educational and research purposes. The dataset should be used in accordance with its original license terms.
+
 
